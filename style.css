@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    min-height: 100%;
+}
+body {
+    background: linear-gradient(to bottom, rgb(11, 1, 20), #6853c7, #3a1cbe);
+     
+    
+}
+h1 {
+    color: rgb(206, 185, 233);
+    padding-left: 100px;
+    padding-top: 70px;
+    font-size: 46px;
+}
+nav a {
+    margin-left: 200px;
+}
+h2 {
+    font-size: 42px;
+    padding-top: 25%; 
+    padding-left: 5%;
+    color: rgb(206, 185, 233);
+}
+h3 {
+    font-size: 22px;
+    padding-top: 3%;
+    padding-left: 5%;
+    color: rgb(196, 184, 211);
+    padding-bottom: 2%;
+}
+.button {
+    padding-left: 12%;
+}
+.btn {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.p1 {
+    font-size: 46px;
+    color: aliceblue;
+}
+.container-fluid {
+    margin-bottom: 10px;
+}
+.form-label {
+    font-size: 24px;
+    color: #fff !important;
+}
+.form-text {
+     color: #fff !important;
+    }
+.mb-3 {
+    margin-left: 40px;
+    margin-right: 100px;
+}
+.p-3 {
+    color: #fff;
+}
+.container-lg p {
+    color: rgb(206, 185, 233);
+}
+.container-lg {
+    
+    height: 200px;
+    margin-top: 20px;
+    
+     
+    border-radius: 20px;
+    background-color: rgb(28, 71, 71);
+}
+.container-1 {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    height: 300px;
+    background: linear-gradient(to right, rgb(5, 4, 75), #459ba7,
+            #085c5c);
+}
+
+h1 {
+    padding-top: 120px;
+    padding-left: 100px;
+    color: #fff;
+}
+
+.col-6 p {
+    padding-top: 120px;
+    padding-left: 100px;
+    color: #fff;
+}
